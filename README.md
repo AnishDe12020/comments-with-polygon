@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+# Comments with polygon tutorial
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+My code from the [Pointer.gg tutorial on setting up a forum on Polygon](https://www.pointer.gg/tutorials/create-a-web3-forum-with-polygon)
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Do note that this is currently deployed on the Polygon Mumbai Testnet.
